@@ -11,5 +11,5 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-clip: border-box;
+  background-clip: content-box;
 }
