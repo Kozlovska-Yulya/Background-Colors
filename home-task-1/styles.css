@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;
+  box-sizing: content-box;
 }
 
 .image {
@@ -11,5 +11,5 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-clip: padding-box;
+  /* background-clip: padding-box; */
 }
